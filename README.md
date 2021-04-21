@@ -1,5 +1,5 @@
 # React Employee Directory
 
-![screenshot](./public/ss.png)
+![screenshot](employee_directory/public/ss.png)
 
 Searchable Employee Directory using React
