@@ -1,2 +1,5 @@
-# react_employee_directory
-Employee Directory using React
+# React Employee Directory
+
+![screenshot](./public/ss.png)
+
+Searchable Employee Directory using React

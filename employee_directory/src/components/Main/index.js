@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import Searchbox from '../Searchbox';
 import api from '../../utils/api';
 import Table from '../Table';
+import "./style.css";
 
 class Main extends Component {
   state = {
@@ -27,7 +28,11 @@ class Main extends Component {
       this.setState({order: 'ascend'}) 
     } else {
       this.setState({order: 'descend'})
-    }
+    } 
+    // const sortorder = (a, b) => {
+    //   a[name] - b[name]
+    // }
+    // target name clicked
   }
 
   render() {

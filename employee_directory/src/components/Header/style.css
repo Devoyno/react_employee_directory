@@ -1,0 +1,15 @@
+.jumbotron {
+ width: 80%;
+ margin-left: 10%;
+ margin-top: 10px;
+ border: 2px solid black;
+ border-radius: 15px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
